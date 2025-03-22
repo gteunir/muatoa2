@@ -1,4 +1,4 @@
-numpy
 gammapy==1.0.1 
+scipy==1.11.4
 matplotlib
 tqdm
